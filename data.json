@@ -1,6 +1,15 @@
 {
   "expenses": [
     {
+      "id": "e1784902146834",
+      "name": "美妝涼的",
+      "amount": 1200,
+      "currency": "JPY",
+      "day": "d1",
+      "cat": "shopping",
+      "time": "下午11:09"
+    },
+    {
       "id": "e1784902126316",
       "name": "美妝",
       "amount": 5200,
