@@ -1,6 +1,15 @@
 {
   "expenses": [
     {
+      "id": "e1784891820864",
+      "name": "3coins 指甲",
+      "amount": 1430,
+      "currency": "JPY",
+      "day": "d1",
+      "cat": "shopping",
+      "time": "下午08:17"
+    },
+    {
       "id": "e1784891804691",
       "name": "豬排飯",
       "amount": 1680,
