@@ -1,5 +1,15 @@
 {
-  "expenses": [],
+  "expenses": [
+    {
+      "id": "e1784891804691",
+      "name": "豬排飯",
+      "amount": 1680,
+      "currency": "JPY",
+      "day": "d1",
+      "cat": "food",
+      "time": "下午08:16"
+    }
+  ],
   "lugDone": {
     "g0-i0": true,
     "g0-i1": true,
