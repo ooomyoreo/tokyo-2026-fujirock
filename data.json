@@ -1,15 +1,6 @@
 {
   "expenses": [
     {
-      "id": "e1784902095665",
-      "name": "711 宵夜",
-      "amount": 1200,
-      "currency": "JPY",
-      "day": "d1",
-      "cat": "food",
-      "time": "下午11:08"
-    },
-    {
       "id": "e1784902094999",
       "name": "711 宵夜",
       "amount": 1200,
