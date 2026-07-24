@@ -13,7 +13,8 @@
     "g3-i1": true,
     "g3-i2": true,
     "g3-i3": true,
-    "g3-i4": true
+    "g3-i4": true,
+    "g4-i0": true
   },
   "itinDone": {},
   "rate": 0.21,
