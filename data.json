@@ -1,6 +1,15 @@
 {
   "expenses": [
     {
+      "id": "e1784902073201",
+      "name": "big camera",
+      "amount": 7200,
+      "currency": "JPY",
+      "day": "d1",
+      "cat": "shopping",
+      "time": "下午11:07"
+    },
+    {
       "id": "e1784891846804",
       "name": "稅",
       "amount": 100,
