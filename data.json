@@ -46,7 +46,9 @@
     "g4-i1": true,
     "g4-i2": true
   },
-  "itinDone": {},
+  "itinDone": {
+    "d1-s0": true
+  },
   "rate": 0.21,
   "budgetJpy": 147000,
   "notes": {
