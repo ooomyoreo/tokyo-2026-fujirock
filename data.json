@@ -1,6 +1,15 @@
 {
   "expenses": [
     {
+      "id": "e1784946751283",
+      "name": "來回接駁",
+      "amount": 2000,
+      "currency": "JPY",
+      "day": "d2",
+      "cat": "transport",
+      "time": "上午11:32"
+    },
+    {
       "id": "e1784940399767",
       "name": "新幹線特急線（來回）",
       "amount": 2738,
