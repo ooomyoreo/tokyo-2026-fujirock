@@ -170,21 +170,13 @@
     "g3-i4": true,
     "g4-i0": true,
     "g4-i1": true,
-    "g4-i2": true,
-    "g1-i0": true,
-    "g1-i1": true,
-    "g1-i2": true
+    "g4-i2": true
   },
   "itinDone": {
     "d1-s0": true,
     "d1-s1": true,
     "d1-s2": true,
-    "d1-s3": true,
-    "d2-s0": true,
-    "d2-s1": true,
-    "d2-s2": true,
-    "d2-s3": true,
-    "d2-s4": true
+    "d1-s3": true
   },
   "rate": 0.21,
   "budgetJpy": 147000,
@@ -194,13 +186,11 @@
         "id": "n1784862928647",
         "text": "買\nlawson 雨傘\n\n3coins \n掛褲子的水壺毛巾/鏡子/冷凍飯/絲襪/浴巾/背心/水壺晾乾神奇/塑膠提袋把/雙層眼鏡盒/慈禧補光燈/小相機/旋轉刷具架/壓縮袋壓縮器/慈禧手機支架/隨身野餐墊/燙睫毛器/髮夾\n\n無印良品\n鏡子\n\nlorysfarm\n項鍊\n\n鞋子\n\n美妝",
         "time": "上午11:15"
-      }
-    ],
-    "d2": [
+      },
       {
-        "id": "n1784986105613",
-        "text": "買\n離子夾",
-        "time": "下午10:28"
+        "id": "n1784986128122",
+        "text": "我愛你啦",
+        "time": "下午09:28"
       }
     ]
   }
