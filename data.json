@@ -1,6 +1,15 @@
 {
   "expenses": [
     {
+      "id": "e1784940399767",
+      "name": "新幹線特急線（來回）",
+      "amount": 2738,
+      "currency": "TWD",
+      "day": "d2",
+      "cat": "transport",
+      "time": "上午09:46"
+    },
+    {
       "id": "e1784938553198",
       "name": "lawson 早餐",
       "amount": 1428,
