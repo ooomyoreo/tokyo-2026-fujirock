@@ -1,6 +1,15 @@
 {
   "expenses": [
     {
+      "id": "e1784984797105",
+      "name": "山藥烏龍麵",
+      "amount": 1080,
+      "currency": "JPY",
+      "day": "d2",
+      "cat": "food",
+      "time": "下午10:06"
+    },
+    {
       "id": "e1784946751283",
       "name": "來回接駁",
       "amount": 2000,
