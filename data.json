@@ -171,7 +171,9 @@
     "g4-i0": true,
     "g4-i1": true,
     "g4-i2": true,
-    "g1-i0": true
+    "g1-i0": true,
+    "g1-i1": true,
+    "g1-i2": true
   },
   "itinDone": {
     "d1-s0": true,
