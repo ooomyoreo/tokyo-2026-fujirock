@@ -1,6 +1,15 @@
 {
   "expenses": [
     {
+      "id": "e1784984946721",
+      "name": "希臘飯",
+      "amount": 1450,
+      "currency": "JPY",
+      "day": "d2",
+      "cat": "food",
+      "time": "下午10:09"
+    },
+    {
       "id": "e1784984905365",
       "name": "燕麥拿鐵",
       "amount": 700,
