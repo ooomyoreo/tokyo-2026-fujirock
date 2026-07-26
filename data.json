@@ -1,6 +1,15 @@
 {
   "expenses": [
     {
+      "id": "e1785053888521",
+      "name": "西瓜",
+      "amount": 500,
+      "currency": "JPY",
+      "day": "d3",
+      "cat": "shopping",
+      "time": "下午05:18"
+    },
+    {
       "id": "e1785053393345",
       "name": "超市",
       "amount": 6538,
