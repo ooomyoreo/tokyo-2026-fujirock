@@ -1,6 +1,15 @@
 {
   "expenses": [
     {
+      "id": "e1785034309217",
+      "name": "咖啡",
+      "amount": 375,
+      "currency": "JPY",
+      "day": "d3",
+      "cat": "food",
+      "time": "上午11:51"
+    },
+    {
       "id": "e1784985011979",
       "name": "藤井風周邊",
       "amount": 3000,
