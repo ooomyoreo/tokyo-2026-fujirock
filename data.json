@@ -199,7 +199,8 @@
     "d2-s1": true,
     "d3-s0": true,
     "d3-s4": true,
-    "d3-s5": true
+    "d3-s5": true,
+    "d3-s2": true
   },
   "rate": 0.21,
   "budgetJpy": 147000,
